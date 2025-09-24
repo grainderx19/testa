@@ -2,5 +2,5 @@ tests:
   - test 1
   - test 2
   - test 3
-tasks:
+tikets:
   enabled: true
